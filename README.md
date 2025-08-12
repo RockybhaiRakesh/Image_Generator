@@ -1,5 +1,8 @@
 # 🎨 Stable Diffusion Image Generator using Hugging Face `diffusers`
 
+![Uploading image.png…]()
+
+
 This Python script uses the `StableDiffusionPipeline` from the Hugging Face 🤗 Diffusers library to generate AI art from a text prompt.
 
 ## 📌 Features
